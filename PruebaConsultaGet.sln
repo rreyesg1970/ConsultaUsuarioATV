@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaConsultaGet", "PruebaConsultaGet\PruebaConsultaGet.csproj", "{842EA8E6-1F23-4E45-9DDB-CC0915A87228}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{842EA8E6-1F23-4E45-9DDB-CC0915A87228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{842EA8E6-1F23-4E45-9DDB-CC0915A87228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{842EA8E6-1F23-4E45-9DDB-CC0915A87228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{842EA8E6-1F23-4E45-9DDB-CC0915A87228}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88CB53B7-ED28-422E-9F3C-BA5C78819ADA}
+	EndGlobalSection
+EndGlobal
